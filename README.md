@@ -25,17 +25,18 @@ famdotfun is a launchpad on Robinhood Chain. Launch a coin, find your people, ge
 
 ## Contracts
 
-Robinhood Chain mainnet, chain id 4663. The full list, with what each one does, is in the [Docs](https://famdotfun.com/docs).
+Robinhood Chain mainnet, chain id 4663. Every contract is verified on Sourcify and Blockscout. The full list, with what each one does, is in the [Docs](https://famdotfun.com/docs).
 
 | Contract | Address |
 |---|---|
-| Factory (curve launches) | `0x14226252c5C5526c76Ec1370246c77d108dBfb4B` |
-| Portal (direct launches) | `0x4fc688Bb6E3cCB179E6D10B69b4fFE12e181a9FC` |
-| The Bag (platform fees) | `0x471EE5dA3fD9B9C8B186B7e9DAD72270463e36d3` |
-| Payday (hourly payouts) | `0xA76759C5818cAFa348071027Fc6cD903adA81195` |
-| Burn clock | `0xA542876A28d9954e88922785bE70D79B18a8Fc4F` |
-| Boosts | `0xADE405A64379C5A2A00cE84A4af61bB0b0ec42D0` |
-| Referrals | `0x91F7766c60c621940ce8360999Debec8ddA9078b` |
+| Factory (curve launches) | `0x30825D5798851A3b7F974cc2Bf8b03095Ca132C7` |
+| Portal (direct launches) | `0xC2557465A2f57f183676B7783Df82746C0c7A0E8` |
+| The Bag (platform fees) | `0xe1DFe86D24B6E78626Ce73779b7f2Df54F63cca7` |
+| Payday (hourly payouts) | `0x8b3d3651D2Cb52bc77F001399AC014B96Fd1431b` |
+| Burn clock | `0xC2EDBf66547FCC55e561eF12116ED9e2a66E4cd4` |
+| Boosts | `0x68b76E67Dd6D78ab553fa4410932369f2104d8C2` |
+| Referrals | `0x542e86cAd0349B7DbE2310263C96071759933528` |
+| Vault ($FAM lockers) | `0xBe14ea523aD927215a9dc4E8c7b1615A6dae2884` |
 
 ## Source
 

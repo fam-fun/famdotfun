@@ -21,6 +21,7 @@ famdotfun is a launchpad on Robinhood Chain. Launch a coin, find your people, ge
 | Whitepaper | [famdotfun.com/whitepaper](https://famdotfun.com/whitepaper) |
 | Numbers | [famdotfun.com/analytics](https://famdotfun.com/analytics) |
 | X | [@famdotfun](https://x.com/famdotfun) |
+| Contact | [hello@famdotfun.com](mailto:hello@famdotfun.com) |
 
 ## Contracts
 

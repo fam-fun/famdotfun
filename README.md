@@ -29,14 +29,14 @@ Robinhood Chain mainnet, chain id 4663. Every contract is verified on Sourcify a
 
 | Contract | Address |
 |---|---|
-| Factory (curve launches) | `0x30825D5798851A3b7F974cc2Bf8b03095Ca132C7` |
-| Portal (direct launches) | `0xC2557465A2f57f183676B7783Df82746C0c7A0E8` |
-| The Bag (platform fees) | `0xe1DFe86D24B6E78626Ce73779b7f2Df54F63cca7` |
-| Payday (hourly payouts) | `0x8b3d3651D2Cb52bc77F001399AC014B96Fd1431b` |
-| Burn clock | `0xC2EDBf66547FCC55e561eF12116ED9e2a66E4cd4` |
-| Boosts | `0x68b76E67Dd6D78ab553fa4410932369f2104d8C2` |
-| Referrals | `0x542e86cAd0349B7DbE2310263C96071759933528` |
-| Vault ($FAM lockers) | `0xBe14ea523aD927215a9dc4E8c7b1615A6dae2884` |
+| Factory (curve launches) | `0xd2E6DB91b8a4fBf0416a2c91A79D53A64c6244B2` |
+| Portal (direct launches) | `0xb50A6367117F7DaE995d429134421DcD9872F98a` |
+| The Bag (platform fees) | `0xE378CCEbAC5Ee3f1287AA6789000A935F277D468` |
+| Payday (hourly payouts) | `0x25f49c01BB3547F69d89F7bf7d92Ee40B1fCec0E` |
+| Burn clock | `0x836F666ff6c0317bc50a4dDc6907F4C2D00E1e2c` |
+| Boosts | `0x11cF6103524cbB25B15B3D5b6493fff1BE819294` |
+| Referrals | `0xc6F5352408978e69D655015f1731fd916214C81f` |
+| Vault ($FAM lockers) | `0x55f9De5368A5F7E9f8c70f607C97848cf7fb3711` |
 
 ## Source
 

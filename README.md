@@ -18,6 +18,7 @@ famdotfun is a launchpad on Robinhood Chain. Launch a coin, find your people, ge
 |---|---|
 | App | [famdotfun.com](https://famdotfun.com) |
 | Docs | [famdotfun.com/docs](https://famdotfun.com/docs) |
+| API | [api.famdotfun.com](https://api.famdotfun.com), guide at [famdotfun.com/docs/api](https://famdotfun.com/docs/api) |
 | Whitepaper | [famdotfun.com/whitepaper](https://famdotfun.com/whitepaper) |
 | Numbers | [famdotfun.com/analytics](https://famdotfun.com/analytics) |
 | X | [@famdotfun](https://x.com/famdotfun) |
